@@ -55,24 +55,6 @@ table, th, td {
     color: rgb(73, 81, 89);
 }
 
-.university {
-    margin: 40px 0px 0px 0px;
-    border: 8px solid rgb(23, 190, 187);
-    border-radius: 50px;
-}
-
-.layout {
-    margin: 40px 0px 0px 0px;
-    border: 8px solid rgb(23, 190, 187);
-    border-radius: 50px;
-}
-
-.books {
-    margin: 40px 0px 0px 0px;
-    border: 8px solid rgb(23, 190, 187);
-    border-radius: 50px;
-}
-
 .cyber {
     position: relative;
     left: 100px;
