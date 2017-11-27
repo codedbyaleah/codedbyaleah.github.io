@@ -8,9 +8,9 @@ header {
     text-align: center;
     background-image: url("images/field2.jpg");
     background-size: cover;
-    padding: 20px 0px 0px 0px;
+    padding: 10px 0px 0px 0px;
     border: 3px solid rgb(88, 62, 35);
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 table {
