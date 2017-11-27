@@ -2,7 +2,6 @@
 
 body {
     background-color: rgb(213, 226, 188);
-    future: true
 }
 
 header {
@@ -85,6 +84,24 @@ table, th, td {
     font-family: 'Boogaloo';
 }
 
+.books {
+    margin: 40px 0px 0px 0px;
+    border: 8px solid rgb(23, 190, 187);
+    border-radius: 50px;
+}
+
+.layout {
+    margin: 40px 0px 0px 0px;
+    border: 8px solid rgb(23, 190, 187);
+    border-radius: 50px;
+}
+
+.university {
+    margin: 40px 0px 0px 0px;
+    border: 8px solid rgb(23, 190, 187);
+    border-radius: 50px;
+}
+
 .family {
     margin: 40px 0px 0px 0px;
     border: 8px solid rgb(23, 190, 187);
@@ -137,9 +154,7 @@ article {
 
 div {
     text-align: center;
-    margin: 40px 0px 0px 0px;
-    border: 8px solid rgb(23, 190, 187);
-    border-radius: 50px;
+
 }
 
 .button {
