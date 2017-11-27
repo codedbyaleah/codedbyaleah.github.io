@@ -2,7 +2,7 @@
 
 body {
     background-color: rgb(213, 226, 188);
-    timezone: TIMEZONE America/California
+    future: true
 }
 
 header {
