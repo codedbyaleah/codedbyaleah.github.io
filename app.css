@@ -34,11 +34,13 @@ th {
     text-align: left;
     background-color: white;
     color: #17bebb;
+    font-size: 29px;
 }
 
 td {
-height: 50px;
+    height: 50px;
     vertical-align: center;
+    font-size: 25px;
 }
 
 table {
