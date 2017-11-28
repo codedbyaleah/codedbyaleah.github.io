@@ -57,10 +57,6 @@ table, th, td {
    border: 2px solid black;
 }
 
-tbody {
-    background-color: white;
-}
-
 .title {
     text-align: center;
     font-size: 4em;
